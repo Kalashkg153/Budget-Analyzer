@@ -29,11 +29,11 @@ body {
 
 /**********************************************
 *** TOP PART
-**********************************************/
+*********************************************  linear-gradient(rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0.35)); */
 
 .top {
     height: 50vh;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0.35)), url(../../images/backimg.jpeg);
+    background-image: url(./backimg.jpeg);
     background-size: cover;
     background-position: center;
     position: relative;
